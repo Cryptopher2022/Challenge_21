@@ -1,5 +1,7 @@
 # Application
 
+## I finished the code but I could not connect Ganache to Metamask.  I only started this Module this morning.  If i had a few more days I could get some help with a tutor or with the teaching assistant to connect the three pieces.  I was able to compile the two files successfully but I was unable to get the rest.  
+
 ## Challenge: Martian Token Crowdsale
 
 You will create a fungible token that is ERC-20 compliant and that will be minted by using a `Crowdsale` contract from the OpenZeppelin Solidity library.
