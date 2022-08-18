@@ -1,6 +1,6 @@
 # Application
 
-## I finished the code but I could not connect Ganache to Metamask.  I only started this Module this morning.  If i had a few more days I could get some help with a tutor or with the teaching assistant to connect the three pieces.  I was able to compile the two files successfully but I was unable to get the rest.  
+## I uploaded the empty files last time.  I've replaced them with the active and compiled versions of KaseiCoin.sol and KaseiCoinCrowdsale.sol.  KaseiCoinCrowdsaleDeployer function is within crowdsale.  I've included plenty of screenshots showing the deployment and functionality of the programs in Remix, Ganache and MetaMask.
 
 ## Challenge: Martian Token Crowdsale
 
